@@ -3,3 +3,6 @@ new-file.txt
 
 #Ignoring the folder & all files in it
 folder/
+
+#Ignore particular files using wildcards.
+*.tmp
